@@ -22,7 +22,7 @@ module.exports={
       {
         test:/.js$/,
         use:[
-          'babel-loder'
+          'babel-loader'
         ]
       }
     ]
